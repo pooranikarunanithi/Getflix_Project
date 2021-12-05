@@ -56,3 +56,12 @@ h1{
   .topnav .icon {
     display: none;
   }
+  .button2
+  {
+    float: right;
+    background-color:red;
+    font-size: 20px;
+    border-radius: 21px;
+    padding:0.5rem 1rem;
+}
+  

@@ -97,7 +97,8 @@ ob_end_flush();
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Sign Up</title>
+    <title>Getflix - Sign Up</title>
+    <link rel="icon" href="./images/movie-theater.png" type="image/png" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="signup.css">
 </head>

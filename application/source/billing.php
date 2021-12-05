@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>Getflix - Billing</title>
+<link rel="icon" href="./images/movie-theater.png" type="image/png" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous"> <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="billing.css">
@@ -10,8 +12,11 @@
 <nav class="navbar navbar-expand p-0">
         <div class="container-fluid kRed fontWide text-light">
             <ul class="navbar-nav justify-content-between mx-5 py-3 navDesk">
+            
             <li class="nav-item"> <a href="slideshow.php" class="nav-link kRed text-light navLink"> <img src="./images/logo-small.jpg" alt="" width="80" height="60"> </a></li>   
-           </ul>
+              
+        </ul>
+        <button class="button2" onclick="location.href='logout.php'">logout</button> 
     </div>
 </nav>
 <div class="container-fluid py-5">

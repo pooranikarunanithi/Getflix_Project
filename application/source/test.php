@@ -4,39 +4,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="test.css">
-    <title>Movie App</title>
+    <title>Getflix - Home</title>
+    <link rel="icon" href="./images/movie-theater.png" type="image/png" />
 </head>
 <body>
 
-<div class="topnav" id="myTopnav">
-<nav class="navbar navbar-expand p-0">
+<nav class="container-fluid navbar navbar-expand p-0">
         <div class="container-fluid kRed fontWide text-light">
             <ul class="navbar-nav justify-content-between mx-5 py-3 navDesk">
             <li class="nav-item"> <a href="slideshow.php" class="nav-link kRed text-light navLink"> <img src="./images/logo-small.jpg" alt="" width="80" height="60"> </a></li>   
             <button class="button2" onclick="location.href='logout.php'">logout</button>
-           <label id="lbl">
+            <form  id="form">
+            <input type="text" placeholder="Search" id="search" class="search">
+            </form>
+            </ul>
+            <label id="lbl">
            <?php    
-        
         if (!empty(@$_GET['loggedinuser']))
          {   
          echo "Welcome ".@$_GET['loggedinuser'];
          }
          ?>
          </label>
-            <form  id="form">
-            <input type="text" placeholder="Search" id="search" class="search">
-            </form>
-            </ul>
-        
     </div>
    </div>
 </nav><br>
-           
-         
-        <div id="tags"></div>
-        
-        <div id="myNav" class="overlay">
 
+           
+        <div id="tags"></div>
+        <div id="myNav" class="overlay">
         <!-- Button to close the overlay navigation -->
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 
