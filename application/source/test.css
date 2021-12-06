@@ -28,8 +28,8 @@ h1{
 }*/
 
 .search{
-    background-color:rgb(49, 124, 221);
-    border: 2px green;
+    background-color:white;
+    border: 2px white;
     padding:0.5rem 1rem;
     border-radius: 50px;
     font-size: 1rem;
@@ -40,7 +40,7 @@ h1{
 
 .search:focus{
     outline:rgb(255, 255, 255);
-    background-color:green;
+    background-color:white;
 }
 
 .search::placeholder{
@@ -306,6 +306,7 @@ h1
 #lbl
 {
     color: white;
-    float: right;
-
+    float: none;
+    padding: 100px;
+    font-weight: bold;
 }
