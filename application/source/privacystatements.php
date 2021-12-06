@@ -23,10 +23,10 @@
     </div>
     <div class="col-sm-8">
       <h2>Privacy Statements</h2>
-      <h5>This Privacy Statement explains our practices, including your choices, regarding the collection, use, and disclosure of certain information, including your personal information in connection with the Netflix service.</h5>      <br>
+      <h5>This Privacy Statement explains our practices, including your choices, regarding the collection, use, and disclosure of certain information, including your personal information in connection with the Getflix service.</h5>      <br>
       <h2>Contacting Us</h2>
-      <h5>If you have general questions about your account or how to contact customer service for assistance, please visit our online help center at help.netflix.com. For questions specifically about this Privacy Statement, or our use of your personal information, cookies or similar technologies, please contact our Data Protection Officer/Privacy Office by email at <p>meta@gmail.com.</p></p>
-The data controller of your personal information is Netflix International B.V. Please note that if you contact us to assist you, for your safety and ours we may need to authenticate your identity before fulfilling your request.</p2> text..</p></h5>
+      <h5>If you have general questions about your account or how to contact customer service for assistance, please visit our online help center. For questions specifically about this Privacy Statement, or our use of your personal information, cookies or similar technologies, please contact our Data Protection Officer/Privacy Office by email at <p>meta@gmail.com.</p></p>
+The data controller of your personal information is getflix International B.V. Please note that if you contact us to assist you, for your safety and ours we may need to authenticate your identity before fulfilling your request.</p2> text..</p></h5>
       
     </div>
   </div>
