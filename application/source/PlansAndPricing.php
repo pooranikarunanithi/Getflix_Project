@@ -19,27 +19,26 @@
 
 
 <div class="PlansAndPricing">
-<h1>Plans And Pricing </h1>  <br> <br> 
+<h1>Plans And Pricing </h1>  <br> 
 
 <div class="c-wrapper">
         <div>
             <div>
 <span data-type="RC" data-tnid="116550"> 
-<div class="page-block">
+
     <div class=" c-wrapper">
         <div>
-            <p>GETFLIX offers a variety of plans to meet your needs. The plan you choose will determine the video quality and the number of screens you can watch Getflix on at the same time. </p>
-            <p>With all of our plans, you can watch unlimited TV shows and movies.</p>
+            <h2>GETFLIX offers a variety of plans to meet your needs. The plan you choose will determine the video quality and the number of screens you can watch Getflix on at the same time.  With all of our plans, you can watch unlimited TV shows and movies.</h2>
         </div>
     </div>
 </div>
 </span>
-</div>
+</div> <br> 
         </div>
         <div>
             <div class="warning">
                 <div class="icon-wrap"><span class="hcicon-uma-warning icon"></span></div>
-                <div><h2>These prices apply to new members and will gradually take effect for all current members. Current members will receive an email notification 30 days before their price changes, unless they change their plan.</h2></div>
+                <div><h4>These prices apply to new members and will gradually take effect for all current members. Current members will receive an email notification 30 days before their price changes, unless they change their plan.</h4></div>
             </div>
         </div>
         <table class="c-table">
