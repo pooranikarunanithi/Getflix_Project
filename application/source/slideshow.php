@@ -106,7 +106,7 @@ function showSlides() {
 		}
         </script>
         <footer>
-    Project done by Mitsu, Rajab & Poorani
+        © 2021 Copyright:  Mitsu Suchak| Rajab Barambona | Poorani Karunanithi
 </footer>
 
 
